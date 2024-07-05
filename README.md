@@ -14,7 +14,6 @@ A cookie is a small piece of data sent from a website and stored on a user’s d
 3. **Sending Cookies**: On subsequent requests, the browser includes stored cookies in the `Cookie` header.
 `Cookie: sessionId=abc123`
 
-
 4. **Using Cookies**: The server reads the cookies to identify the user session, retrieve preferences, or perform other functions.
 
 5. **Managing Cookies**: Users can manage cookies through their browser settings to view, delete, or block them.
@@ -45,6 +44,6 @@ A cookie is a small piece of data sent from a website and stored on a user’s d
 - **Regulatory Compliance**: Regulations like GDPR and CCPA require user consent for tracking cookies.
 
 ## 📜 Conclusion
-Cookies are essential for enhancing user experience through session management, personalization, and tracking. Understanding how cookies work and following best practices ensures their secure and effective use while mitigating privacy and security risks. By managing cookies through browser settings, users can control their online privacy and security. 🌐
+Cookies are essential for enhancing user experience through session management, personalization, and tracking. Understanding how cookies work and following best practices ensures their secure and effective use while mitigating privacy and security risks. By managing cookies through browser settings, users can control their online privacy and security. 
 
 Read More: [Blog Link](https://medium.com/@parmarvenisha725/the-essential-guide-to-cookies-what-they-are-and-how-they-work-3af96a440006)
