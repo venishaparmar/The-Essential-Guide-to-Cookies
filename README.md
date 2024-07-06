@@ -20,6 +20,7 @@ A cookie is a small piece of data sent from a website and stored on a user’s d
 
 ## 🎯 Uses of Cookies
 - **Session Management**: Maintains user sessions across pages (e.g., staying logged in).
+  Read More: [Session](https://github.com/jeel-butani/Web-Sessions-Comprehensive-Guide)
 - **Personalization**: Stores preferences (e.g., language settings).
 - **Tracking**: Tracks user behavior for personalized ads (raises privacy concerns).
 
